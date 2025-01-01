@@ -1,4 +1,4 @@
-<h1>Hi, I'm Sean, an <a href="https://www.linkedin.com/in/sean-maldonado-b63a4a281/">IT Professional</a>☺</h1>
+<h1>Hi, I'm Sean, an <a href="https://www.linkedin.com/in/sean-maldonado-b63a4a281/">SOC Analyst</a>☺</h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
