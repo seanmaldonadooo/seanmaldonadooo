@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b> LetsDefend SOC Alerts (Help Desk Ticketing System)</b>
+- <b> LetsDefend SOC Alerts (Simulated SIEM Alerts)</b>
   - [LetsDefend SOC Alerts: 86 - SOC141 - Phishing URL Detected](https://github.com/seanmaldonadooo)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
