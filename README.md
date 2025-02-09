@@ -1,9 +1,4 @@
 <h1>Hi, I'm Sean, a <a href="https://www.linkedin.com/in/sean-maldonado-b63a4a281/">SOC Analyst</a>☺</h1>
-
-<h2>👨‍💻 Cyber Security Projects:</h2>
-
-- <b> LetsDefend Playbooks (Simulated SIEM Alerts)</b>
-  - [LetsDefend SOC Alerts: 86 - SOC141 - Phishing URL Detected](https://github.com/seanmaldonadooo)
   
 <h2>👨‍💻 Information Technology Projects:</h2>
 
